@@ -1,0 +1,15 @@
+.form{
+    padding: 20px;
+}
+.text{
+    padding: 5px;
+    border: 1px solid blue;
+}
+.submit{
+    padding: 6px;
+    background-color: blue;
+    color: #eeeeee;
+    border: none;
+    margin: 2px;
+    cursor: pointer;
+}
